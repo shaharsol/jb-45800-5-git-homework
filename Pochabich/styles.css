@@ -76,3 +76,8 @@ code {
     line-height: 1.6;
     color: #333;
 }
+
+#tsIcon {
+    width: 250px;
+    height: 200px;
+}
